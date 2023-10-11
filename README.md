@@ -1,10 +1,7 @@
-Việc thiết kế một tệp README cho dự án về chuyến đi tham quan Địa Đạo Củ Chi giúp bạn trình bày thông tin một cách cụ thể và dễ hiểu cho những người quan tâm. Dưới đây là một mẫu README cho dự án tham quan Địa Đạo Củ Chi:
-
----
 
 # Chuyến Tham Quan Địa Đạo Củ Chi
 
-![Ảnh bìa](https://www.google.com/url?sa=i&url=http%3A%2F%2Fdivui.com%2Fblog%2Fkinh-nghiem-tham-quan-dia-dao-cu-chi-1-ngay-tu-tuc-tu-z%2F&psig=AOvVaw3N8o1sxRUlOqr67Wk1K6u0&ust=1697105251917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDSkO_f7YEDFQAAAAAdAAAAABAE)
+![Ảnh bìa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnguoihanoi.vn%2Fdia-dao-cu-chi-ptag.html&psig=AOvVaw3N8o1sxRUlOqr67Wk1K6u0&ust=1697105251917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDSkO_f7YEDFQAAAAAdAAAAABAJ)
 
 ## Giới Thiệu
 
