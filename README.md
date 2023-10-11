@@ -1,7 +1,7 @@
 
 # Chuyến Tham Quan Địa Đạo Củ Chi
 
-![Ảnh bìa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fnguoihanoi.vn%2Fdia-dao-cu-chi-ptag.html&psig=AOvVaw3N8o1sxRUlOqr67Wk1K6u0&ust=1697105251917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDSkO_f7YEDFQAAAAAdAAAAABAJ)
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fnguoihanoi.vn%2Fdia-dao-cu-chi-ptag.html&psig=AOvVaw3N8o1sxRUlOqr67Wk1K6u0&ust=1697105251917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDSkO_f7YEDFQAAAAAdAAAAABAJ)
 
 ## Giới Thiệu
 
@@ -41,8 +41,8 @@ Chúng tôi luôn chào đón sự đóng góp từ cộng đồng. Nếu bạn 
 
 ## Tác Giả
 
-- Tên: [Tên của bạn]
-- Email: [Địa chỉ email của bạn]
+- Tên: Vang Phú Cường
+- Email: Phucuong1109@gmail.com
 
 ## Giấy Phép
 
