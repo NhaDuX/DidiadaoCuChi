@@ -1,7 +1,7 @@
 
 # Chuyến Tham Quan Địa Đạo Củ Chi
 
-!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fnguoihanoi.vn%2Fdia-dao-cu-chi-ptag.html&psig=AOvVaw3N8o1sxRUlOqr67Wk1K6u0&ust=1697105251917000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDSkO_f7YEDFQAAAAAdAAAAABAJ)
+![Ảnh Bìa](https://nhn.1cdn.vn/2023/07/21/photo-21-1689316596781414888618.jpg)
 
 ## Giới Thiệu
 
